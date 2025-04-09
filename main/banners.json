@@ -23,5 +23,10 @@
     "name": "banner1",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/DinnerMBanner.png",
     "boxColor": "FFFFFFFF"
+  },
+  {
+    "name": "banner1",
+    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/Vafli.png",
+    "boxColor": "FFFFFFFF"
   }
 ]
