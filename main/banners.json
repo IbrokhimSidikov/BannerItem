@@ -1,0 +1,12 @@
+[
+  {
+    "name": "banner1",
+    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/images/banner1.png",
+    "boxColor": "FFFFFFFF"
+  },
+  {
+    "name": "banner2",
+    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/images/banner2.png",
+    "boxColor": "FFFFFFFF"
+  }
+]
