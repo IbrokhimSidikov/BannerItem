@@ -1,12 +1,27 @@
 [
   {
     "name": "banner1",
-    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/images/banner1.png",
+    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/images/banner2.png",
     "boxColor": "FFFFFFFF"
   },
   {
-    "name": "banner2",
-    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/images/banner2.png",
+    "name": "banner1",
+    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/images/banner3.png",
+    "boxColor": "FFFFFFFF"
+  },
+  {
+    "name": "banner1",
+    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/images/banner4.png",
+    "boxColor": "FFFFFFFF"
+  },
+  {
+    "name": "banner1",
+    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/images/Combo.png",
+    "boxColor": "FFFFFFFF"
+  },
+  {
+    "name": "banner1",
+    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/images/DinnerMBanner.png",
     "boxColor": "FFFFFFFF"
   }
 ]
