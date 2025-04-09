@@ -1,31 +1,31 @@
 [
   {
-    "name": "banner1",
+    "name": "banner2",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/banner2.png",
     "boxColor": "FFFFFFFF"
   },
   {
-    "name": "banner1",
+    "name": "banner3",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/banner3.png",
     "boxColor": "FFFFFFFF"
   },
   {
-    "name": "banner1",
+    "name": "banner4",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/banner4.png",
     "boxColor": "FFFFFFFF"
   },
   {
-    "name": "banner1",
+    "name": "Combo",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/Combo.png",
     "boxColor": "FFFFFFFF"
   },
   {
-    "name": "banner1",
+    "name": "DinnerMBanner",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/DinnerMBanner.png",
     "boxColor": "FFFFFFFF"
   },
   {
-    "name": "banner",
+    "name": "Vafli",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/Vafli.png",
     "boxColor": "FFFFFFFF"
   }
