@@ -23,6 +23,11 @@
     "name": "Vafli",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/Vafli.png",
     "boxColor": "FFFFFFFF"
+  },
+  {
+    "name": "Twins",
+    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/twins_11apr2025.png",
+    "boxColor": "FFFFFFFF"
   }
 
 ]
