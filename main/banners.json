@@ -1,7 +1,7 @@
 [
   {
-    "name": "banner2",
-    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/banner2.png",
+    "name": "mixPizza",
+    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/mixPizza_11apr2025.png",
     "boxColor": "FFFFFFFF"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "name": "Combo",
-    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/Combo.png",
+    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/combo_11apr2025.png",
     "boxColor": "FFFFFFFF"
   },
   {
@@ -27,6 +27,11 @@
   {
     "name": "Twins",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/twins_11apr2025.png",
+    "boxColor": "FFFFFFFF"
+  },
+  {
+    "name": "fCombo",
+    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/fullyCombo_11apr2025.png",
     "boxColor": "FFFFFFFF"
   }
 
