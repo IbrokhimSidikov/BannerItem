@@ -33,6 +33,20 @@
     "name": "fCombo",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/fullyCombo_11apr2025.png",
     "boxColor": "FFFFFFFF"
+  },
+  {
+    "name": "pizza1",
+    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/Pizza1_27jun2025.png",
+    "boxColor": "FFFFFFFF"
+  },
+  {
+    "name": "fCombo",
+    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/twins_27jun2025.png",
+    "boxColor": "FFFFFFFF"
+  },
+  {
+    "name": "fCombo",
+    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/Bucket1_27jun2025.png",
+    "boxColor": "FFFFFFFF"
   }
-
 ]
