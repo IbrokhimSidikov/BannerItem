@@ -3,60 +3,60 @@
     "name": "mixPizza",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/mixPizza_11apr2025.png",
     "boxColor": "FFFFFFFF",
-    "productId": ""
+    "productId": "306"
   },
   {
     "name": "banner3",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/banner3.png",
     "boxColor": "FFFFFFFF",
-    "productId": ""
+    "productId": "306"
   },
   {
     "name": "Combo",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/combo_11apr2025.png",
     "boxColor": "FFFFFFFF",
-    "productId": ""
+    "productId": "306"
   },
   {
     "name": "DinnerMBanner",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/DinnerMBanner.png",
     "boxColor": "FFFFFFFF",
-    "productId": ""
+    "productId": "306"
   },
   {
     "name": "Vafli",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/Vafli.png",
     "boxColor": "FFFFFFFF",
-    "productId": ""
+    "productId": "306"
   },
   {
     "name": "Twins",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/twins_11apr2025.png",
     "boxColor": "FFFFFFFF",
-    "productId": ""   
+    "productId": "306"   
   },
   {
     "name": "fCombo",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/fullyCombo_11apr2025.png",
     "boxColor": "FFFFFFFF",
-    "productId": ""
+    "productId": "306"
   },
   {
     "name": "pizza1",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/Pizza1_27jun2025.png",
     "boxColor": "FFFFFFFF",
-    "productId": ""
+    "productId": "306"
   },
   {
     "name": "fCombo",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/twins_27jun2025.png",
     "boxColor": "FFFFFFFF",
-    "productId": ""
+    "productId": "306"
   },
   {
     "name": "fCombo",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/Bucket1_27jun2025.png",
     "boxColor": "FFFFFFFF",
-    "productId": ""
+    "productId": "306"
   }
 ]
