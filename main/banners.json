@@ -49,12 +49,6 @@
   },
   {
     "name": "fCombo",
-    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/twins_27jun2025.png",
-    "boxColor": "FFFFFFFF",
-    "productId": "306"
-  },
-  {
-    "name": "fCombo",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/Bucket1_27jun2025.png",
     "boxColor": "FFFFFFFF",
     "productId": "306"
