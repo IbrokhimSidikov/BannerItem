@@ -30,12 +30,6 @@
     "productId": "306"
   },
   {
-    "name": "Twins",
-    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/twins_11apr2025.png",
-    "boxColor": "FFFFFFFF",
-    "productId": "306"   
-  },
-  {
     "name": "fCombo",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/fullyCombo_11apr2025.png",
     "boxColor": "FFFFFFFF",
@@ -56,6 +50,18 @@
   {
     "name": "Smart",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/Smart.png",
+    "boxColor": "FFFFFFFF",
+    "productId": "306"
+  },
+  {
+    "name": "appMax",
+    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/appmaxApp1.png",
+    "boxColor": "FFFFFFFF",
+    "productId": "306"
+  },
+  {
+    "name": "appMax2",
+    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/appmaxApp2.png",
     "boxColor": "FFFFFFFF",
     "productId": "306"
   }
