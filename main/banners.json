@@ -58,6 +58,12 @@
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/appmaxApp1.png",
     "boxColor": "FFFFFFFF",
     "productId": "306"
+  },
+  {
+    "name": "2+1",
+    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/2+1.png",
+    "boxColor": "FFFFFFFF",
+    "productId": "306"
   }
 
 ]
