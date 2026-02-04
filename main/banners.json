@@ -1,5 +1,11 @@
 [
   {
+    "name": "0402",
+    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/0402.png",
+    "boxColor": "FFFFFFFF",
+    "productId": "306"
+  },
+  {
     "name": "mixPizza",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/mixPizza_11apr2025.png",
     "boxColor": "FFFFFFFF",
@@ -65,5 +71,4 @@
     "boxColor": "FFFFFFFF",
     "productId": "306"
   }
-
 ]
