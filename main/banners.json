@@ -12,12 +12,6 @@
     "productId": "306"
   },
   {
-    "name": "banner3",
-    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/banner3.png",
-    "boxColor": "FFFFFFFF",
-    "productId": "306"
-  },
-  {
     "name": "Combo",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/combo_11apr2025.png",
     "boxColor": "FFFFFFFF",
@@ -38,12 +32,6 @@
   {
     "name": "fCombo",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/fullyCombo_11apr2025.png",
-    "boxColor": "FFFFFFFF",
-    "productId": "306"
-  },
-  {
-    "name": "pizza1",
-    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/Pizza1_27jun2025.png",
     "boxColor": "FFFFFFFF",
     "productId": "306"
   },
