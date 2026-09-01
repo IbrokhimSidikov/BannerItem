@@ -18,12 +18,6 @@
     "productId": "306"
   },
   {
-    "name": "DinnerMBanner",
-    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/DinnerMBanner.png",
-    "boxColor": "FFFFFFFF",
-    "productId": "306"
-  },
-  {
     "name": "Vafli",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/Vafli.png",
     "boxColor": "FFFFFFFF",
