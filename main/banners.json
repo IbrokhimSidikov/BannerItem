@@ -24,6 +24,12 @@
     "productId": "306"
   },
   {
+    "name": "kristallar",
+    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/kristallar.png",
+    "boxColor": "FFFFFFFF",
+    "productId": "306"
+  },
+  {
     "name": "mixPizza",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/mixPizza_11apr2025.png",
     "boxColor": "FFFFFFFF",
