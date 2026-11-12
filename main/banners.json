@@ -6,24 +6,6 @@
     "productId": "306"
   },
   {
-    "name": "App1",
-    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/App1.png",
-    "boxColor": "FFFFFFFF",
-    "productId": "306"
-  },
-  {
-    "name": "App2",
-    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/App2.png",
-    "boxColor": "FFFFFFFF",
-    "productId": "306"
-  },
-  {
-    "name": "App3",
-    "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/App3.png",
-    "boxColor": "FFFFFFFF",
-    "productId": "306"
-  },
-  {
     "name": "kristallar",
     "imagePath": "https://raw.githubusercontent.com/IbrokhimSidikov/BannerItem/main/main/images/kristallar.png",
     "boxColor": "FFFFFFFF",
